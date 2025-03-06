@@ -20,9 +20,13 @@ I am a passionate Fullstack Developer with a strong background in Java programmi
 **Frontend:**
 - React
 - HTML/CSS
+
+
 **Backend:**
 - Node.js
 - Express.js
+
+
 **Database:**
 - MongoDB
 - MySQL
