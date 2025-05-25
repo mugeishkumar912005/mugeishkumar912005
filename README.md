@@ -61,15 +61,7 @@ I am a passionate **Fullstack Developer** with a strong foundation in **Java**, 
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mugeishkumar912005&show_icons=true&theme=tokyonight" alt="Mugeish's GitHub stats"/>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mugeishkumar912005&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
 
 ## 🔗 Connect with Me
 
